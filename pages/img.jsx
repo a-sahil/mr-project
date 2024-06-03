@@ -20,7 +20,7 @@ const Img = () => {
 />
 </h1>
 </div>
-        <img src="QR.jpg" alt="" className=" w-[18rem] rounded-xl" />
+        <img src="QR1.png" alt="" className=" w-[18rem] rounded-xl" />
         <p className="text-3xl ml-16 mt-4 text-[#7c311a] ">Scan the QR</p>
       </div>
       
